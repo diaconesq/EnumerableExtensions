@@ -17,7 +17,7 @@ http://blog.mischel.com/2014/12/24/merge-code-posted/
 
 ## Installing
 
-Get it on NuGet: [![NuGet Status](http://img.shields.io/nuget/v/RecurringDates.svg?style=flat)](https://www.nuget.org/packages/Mischel.EnumerableExtensions/)
+Get it on NuGet: [![NuGet Status](http://img.shields.io/nuget/v/Mischel.EnumerableExtensions.svg?style=flat)](https://www.nuget.org/packages/Mischel.EnumerableExtensions/)
 
 > Install-package Mischel.EnumerableExtensions
 
