@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Mischel.EnumerableExtensions</id>
+        <version>1.0.0</version>
+        <authors>Jim Mischel</authors>
+        <projectUrl>https://github.com/diaconesq/EnumerableExtensions</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Merge ordered IEnumerable&lt;&gt; collections.</description>
+    </metadata>
+    <files>
+        <file src="lib\Mischel.EnumerableExtensions.dll" target="lib\Mischel.EnumerableExtensions.dll" />
+        <file src="lib\Mischel.EnumerableExtensions.pdb" target="lib\Mischel.EnumerableExtensions.pdb" />
+    </files>
+</package>
