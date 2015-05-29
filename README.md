@@ -8,12 +8,12 @@ This library was written by Jim Mischel.
 
 There are several blog posts by the author describing the reasons and workings of the library.
 
-http://blog.mischel.com/2014/11/10/merging-multiple-sorted-lists/
-http://blog.mischel.com/2014/11/15/merging-multiple-lists-with-linq/
-http://blog.mischel.com/2014/11/17/a-different-way-to-merge-multiple-lists/
-http://blog.mischel.com/2014/11/20/a-closer-look-at-pairwise-merging/
-http://blog.mischel.com/2014/12/21/testing-merge-performance/
-http://blog.mischel.com/2014/12/24/merge-code-posted/
+http://blog.mischel.com/2014/11/10/merging-multiple-sorted-lists/  
+http://blog.mischel.com/2014/11/15/merging-multiple-lists-with-linq/  
+http://blog.mischel.com/2014/11/17/a-different-way-to-merge-multiple-lists/  
+http://blog.mischel.com/2014/11/20/a-closer-look-at-pairwise-merging/  
+http://blog.mischel.com/2014/12/21/testing-merge-performance/  
+http://blog.mischel.com/2014/12/24/merge-code-posted/  
 
 ## Copyright
 
