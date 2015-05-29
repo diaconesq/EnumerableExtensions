@@ -17,7 +17,13 @@ http://blog.mischel.com/2014/12/24/merge-code-posted/
 
 ## Copyright
 
-Copyright � 2014, Jim Mischel
+From the author's blog:
+
+> The code is all MIT License, meaning you can do with it what you like. I request that you let me know if it’s useful to you, but there’s no requirement.
+
+
+
+Copyright © 2014, Jim Mischel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
