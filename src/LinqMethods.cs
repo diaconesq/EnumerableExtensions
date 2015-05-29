@@ -26,6 +26,20 @@ namespace Mischel.EnumerableExtensions
     public static class LinqMethods
     {
         public static IOrderedEnumerable<TSource> MergeBy<TSource, TKey>(
+            Func<TSource, TKey> keyExtractor,
+            params IEnumerable<TSource>[] lists)
+        {
+            return MergeBy(lists, keyExtractor);
+        }
+        public static IOrderedEnumerable<TSource> MergeBy<TSource, TKey>(
+            Func<TSource, TKey> keyExtractor,
+            IComparer<TKey> comparer,
+            params IEnumerable<TSource>[] lists)
+        {
+            return MergeBy(lists, keyExtractor, comparer);
+        }
+
+        public static IOrderedEnumerable<TSource> MergeBy<TSource, TKey>(
             IEnumerable<IEnumerable<TSource>> lists,
             Func<TSource, TKey> keyExtractor)
         {
